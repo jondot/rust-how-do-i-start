@@ -1,6 +1,6 @@
 # Rust :crab:. How do I start?
 
-I've been asked this casually so many times, so here it is as a Github repo anyone can contribute to and improve!
+A collaborative advice for this casual questions that gets asked many times, so here it is as a Github repo anyone can contribute to and improve!
 
 ## Mainstream
 
