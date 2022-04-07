@@ -6,7 +6,7 @@ A collaborative advice for this casual question that gets asked many times, so h
 * 👷‍♀️ While you're working your way through, feel free to ask questions about ways to start in Rust in [Discussions](https://github.com/jondot/rust-how-do-i-start/discussions)
 * 🎊 Feel free to add suggestions and PRs of your own https://github.com/jondot/rust-how-do-i-start#contributing
 
-## Main track
+# Main track
 
 1. The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
 2. If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with [rustlings](https://github.com/rust-lang/rustlings)
@@ -18,7 +18,20 @@ A collaborative advice for this casual question that gets asked many times, so h
 
 From here, since everyone have their own taste, visit [Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
 
-## I'm a Node Developer
+## Hold on! I want to just play around before deciding to start
+
+* Try the [tour of rust](https://tourofrust.com/index.html)
+* [A gentle intro to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+
+
+## Cool stuff to have open in a tab while working
+
+* [A big cheatsheet](https://www.cheats.rs/) or [a smaller cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
+* A fun [syntax explorer explainer](https://jrvidal.github.io/explaine.rs/)
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) and [are we there yet](https://wiki.mozilla.org/Areweyet) for when you're reaching out for a library or need inspiration
+
+
+# I'm a Node Developer
 
 1. Add [Rust for node developers](https://github.com/Mercateo/rust-for-node-developers) to your schedule, which is a soft intro just to get your bearings.
 
