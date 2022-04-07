@@ -2,6 +2,10 @@
 
 A collaborative advice for this casual question that gets asked many times, so here it is as a Github repo anyone can contribute to and improve!
 
+* 👁️ Before you start, watch this repo (Github watch button) so you can get updates when we add stuff
+* 👷‍♀️ While you're working your way through, feel free to ask questions about ways to start in Rust in [Discussions](https://github.com/jondot/rust-how-do-i-start/discussions)
+* 🎊 Feel free to add suggestions and PRs of your own https://github.com/jondot/rust-how-do-i-start#contributing
+
 ## Main track
 
 1. The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
