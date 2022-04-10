@@ -6,7 +6,15 @@ A collaborative advice for this casual question that gets asked many times, so h
 * 👷‍♀️ While you're working your way through, feel free to ask questions about ways to start in Rust in [Discussions](https://github.com/jondot/rust-how-do-i-start/discussions)
 * 🎊 Feel free to add suggestions and PRs of your own https://github.com/jondot/rust-how-do-i-start#contributing
 
-# Main track
+## 🐱 What to expect?
+
+_Some hand-selected articles to give you a feeling of what's the journey like._
+
+* [My own key learnings after 30k LOC in Rust](https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19) - I can say that today the experience is much greater than back then. There's so much more to learn from, and the ecosystem is huge. Still, the core ideas in the article are relevant.
+
+# 🚜 Main track
+
+_This is largely the learn path you should follow. It is hand-selected, minimal, and high-value, highly effective content only_
 
 1. The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
 2. If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with [rustlings](https://github.com/rust-lang/rustlings)
@@ -18,20 +26,26 @@ A collaborative advice for this casual question that gets asked many times, so h
 
 From here, since everyone have their own taste, visit [Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
 
-## Hold on! I want to just play around before deciding to start
+## 🤾‍♂️ Hold on! I want to just play around before deciding to start
+
+_Some links to give you a feeling of Rust, if you're not ready to make the jump yet, or need some convincing to invest the time_
 
 * Try the [tour of rust](https://tourofrust.com/index.html)
 * [A gentle intro to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 
-## Cool stuff to have open in a tab while working
+## 💻 Cool stuff to have open in a tab while working
+
+_If you have multiple screens, and like a full immersive learning experience - you can keep these open at all times_
 
 * [A big cheatsheet](https://www.cheats.rs/) or [a smaller cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
 * A fun [syntax explorer explainer](https://jrvidal.github.io/explaine.rs/)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust) and [are we there yet](https://wiki.mozilla.org/Areweyet) for when you're reaching out for a library or need inspiration
 
 
-# I'm a Node Developer
+# Extras: Node.js Developers
+
+_These links will help bridge the mental model when you're coming from Node.js_
 
 1. Add [Rust for node developers](https://github.com/Mercateo/rust-for-node-developers) to your schedule, which is a soft intro just to get your bearings.
 
