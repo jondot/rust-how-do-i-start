@@ -21,8 +21,9 @@ _This is largely the learn path you should follow. It is hand-selected, minimal,
 3. Once you finished a first pass at the Rust book, pick a hobby project that's useful for you. Something more than trivial that includes data passing and a few modules (just so you get to experience the borrow checker and data modeling) something in the scope of [bat](https://github.com/sharkdp/bat/tree/master/src). Work on it and go back to the Rust book from time to time (as well as, well - StackOverflow). Repeat, rinse.
 4. Asking for feedback is highly encouraged to get better at writing idiomatic, readable and performant Rust. You can ask for feedback in [the Rust Subreddit](https://reddit.com/r/rust) or in [the Rust Programming Language Community Discord Server](https://discord.gg/rust-lang-community).
 5. You're now ready for [Rust by example](https://github.com/rust-lang/rust-by-example) and [Rust by practice](https://github.com/sunface/rust-by-practice)
-6. When you feel curious about the "why's", pick up [Rust for Rustaceans](https://nostarch.com/rust-rustaceans). This is the point where you're moving from beginner to intermediate Rust developer.
-7. Next, [Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
+6. [Rust patterns](https://rust-unofficial.github.io/patterns/intro.html) is a great intro to idioms in Rust
+7. When you feel curious about the "why's", pick up [Rust for Rustaceans](https://nostarch.com/rust-rustaceans). If you're not building libraries, skim it and read what's interesting. If you are building libraries, have a deeper read and keep it for reference.
+8. Next, [Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
 
 From here, since everyone have their own taste, visit [Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
 
