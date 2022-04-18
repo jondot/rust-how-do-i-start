@@ -16,6 +16,7 @@ _Some hand-selected articles to give you a feeling of what's the journey like._
 
 _This is largely the learn path you should follow. It is hand-selected, minimal, and high-value, highly effective content only_
 
+0. Optional: [Take your first steps with Rust from Microsoft](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 1. 🦀 The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
 2. 🏋️‍♀️ If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with [rustlings](https://github.com/rust-lang/rustlings)
 3. 🧰 Pick a hobby project that's useful for you. Something more than trivial that includes data passing and a few modules (just so you get to experience the borrow checker and data modeling) something in the scope of [bat](https://github.com/sharkdp/bat/tree/master/src). Work on it and go back to the Rust book from time to time (as well as, well - StackOverflow). Repeat, rinse.
