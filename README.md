@@ -49,6 +49,7 @@ _Some links to give you a feeling of Rust, if you're not ready to make the jump 
 
 * Try the [tour of rust](https://tourofrust.com/index.html)
 * [A gentle intro to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+* [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 
 
 ## 💻 Cool stuff to have open in a tab while working
