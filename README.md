@@ -22,10 +22,11 @@ _This is largely the learn path you should follow. It is hand-selected, minimal,
 * 🤷‍♀️ Don't have an idea for a hobby project? [PNGMe](https://picklenerd.github.io/pngme_book/introduction.html) is a good project to build + it's a book and exercise format
 * 🎩 Don't want to work on a project at all? the [too many lists](https://rust-unofficial.github.io/too-many-lists/index.html) minibook will have you building linked-lists of all kinds and is quite good
 6. 🤝 Asking for feedback is highly encouraged to get better at writing idiomatic, readable and performant Rust. You can ask for feedback in [the Rust Subreddit](https://reddit.com/r/rust) or in [the Rust Programming Language Community Discord Server](https://discord.gg/rust-lang-community).
-7. 🌱 You're now ready for [Rust by example](https://github.com/rust-lang/rust-by-example) and [Rust by practice](https://github.com/sunface/rust-by-practice)
-8. ⏫ [Rust patterns](https://rust-unofficial.github.io/patterns/intro.html) is a great intro to idioms in Rust
-9. 🤔 When you feel curious about the "why's", pick up [Rust for Rustaceans](https://nostarch.com/rust-rustaceans). If you're not building libraries, skim it and read what's interesting. If you are building libraries, have a deeper read and keep it for reference.
-10. 🚀 Next, [Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
+7. 📐 The [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) for why things are the way they are. E.g. why `into`, and why the `_mut` postfix. For understanding the Rust-"isms" around you when reading people's code.
+9. 🌱 You're now ready for [Rust by example](https://github.com/rust-lang/rust-by-example) and [Rust by practice](https://github.com/sunface/rust-by-practice)
+10. ⏫ [Rust patterns](https://rust-unofficial.github.io/patterns/intro.html) is a great intro to idioms in Rust
+11. 🚀 Next, [Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
+12. 🤔 When you feel curious about the "why's", pick up [Rust for Rustaceans](https://nostarch.com/rust-rustaceans). Skim it and read what's interesting to you, cover-to-cover is a hard read, unless you have the focus & time.
 
 From here, since everyone have their own taste, visit [Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
 
