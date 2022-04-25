@@ -51,7 +51,9 @@ _These are easy starter project ideas, not full-blown projects, just to get you 
 * [CloudFormation parser](https://rtoch.com/posts/advanced-serde/). -- `Practice:` CLI, serde, errors, data. `Difficulty:` medium.
 * [Realworld](https://github.com/gothinkster/realworld) implementation in Rust. See [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx). -- `Practice`: Web, services, SQL, data. `Difficulty`: medium.
 * [QR code generator](https://github.com/madprops/qool) -- `Practice`: CLI, modules, data. `Difficulty`: medium.
-
+* [Redis protocol parser (RESP)](https://redis.io/docs/reference/protocol-spec/) -- `Practice`: parsing, TDD, creating Rust libraries, data. `Difficulty`: medium.
+* [Add a lint to Clippy](https://github.com/rust-lang/rust-clippy/blob/master/doc/adding_lints.md). Clippy is the Rust linter, and you might be using it all day long. How about add stuff to it?. `Practice`: real world Rust, parsing, compilers. `Difficulty`: hard.
+* [JSON log viewer, CLI](https://github.com/gistia/json-log-viewer) -- `Practice`: CLI, TUI, modules, data, parsing. `Difficulty`: hard.
 
 
 ## 🤾‍♂️ Hold on! I want to just play around before deciding to start
