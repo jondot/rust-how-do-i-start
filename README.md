@@ -47,14 +47,15 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
 
-* `cat`, `grep`, `uniq`, `wc`, `find` + more. [in this repo](https://github.com/kyclark/command-line-rust) from the _Command line Rust_ book. -- `Practice`: CLI, stdlib, data. `Difficulty`: easy.
-* [A beefed up calculator](https://crates.io/crates/eva) -- `Practice`: CLI, parsing, data. `Difficulty`: easy.
-* [CloudFormation parser](https://rtoch.com/posts/advanced-serde/). -- `Practice:` CLI, serde, errors, data. `Difficulty:` medium.
-* [Realworld](https://github.com/gothinkster/realworld) implementation in Rust. See [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx). -- `Practice`: Web, services, SQL, data. `Difficulty`: medium.
-* [QR code generator](https://github.com/madprops/qool) -- `Practice`: CLI, modules, data. `Difficulty`: medium.
-* [Redis protocol parser (RESP)](https://redis.io/docs/reference/protocol-spec/) -- `Practice`: parsing, TDD, creating Rust libraries, data. `Difficulty`: medium.
-* [Add a lint to Clippy](https://github.com/rust-lang/rust-clippy/blob/master/doc/adding_lints.md). Clippy is the Rust linter, and you might be using it all day long. How about add stuff to it?. `Practice`: real world Rust, parsing, compilers. `Difficulty`: hard.
-* [JSON log viewer, CLI](https://github.com/gistia/json-log-viewer) -- `Practice`: CLI, TUI, modules, data, parsing. `Difficulty`: hard.
+* `cat`, `grep`, `uniq`, `wc`, `find` + more. [in this repo](https://github.com/kyclark/command-line-rust) from the _Command line Rust_ book. -- `Practice` CLI, stdlib, data. `Difficulty` easy.
+* [A beefed up calculator](https://crates.io/crates/eva) -- `Practice` CLI, parsing, data. `Difficulty` easy.
+* [SMTP Protocol in Go - but implement in Rust](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html) and build a simple TCP server from scratch -- `Practice` CLI, parsing, services. `Difficulty` easy
+* [CloudFormation parser](https://rtoch.com/posts/advanced-serde/). -- `Practice` CLI, serde, errors, data. `Difficulty` medium.
+* [Realworld](https://github.com/gothinkster/realworld) implementation in Rust. See [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx). -- `Practice` Web, services, SQL, data. `Difficulty` medium.
+* [QR code generator](https://github.com/madprops/qool) -- `Practice` CLI, modules, data. `Difficulty` medium.
+* [Redis protocol parser (RESP)](https://redis.io/docs/reference/protocol-spec/) -- `Practice` parsing, TDD, creating Rust libraries, data. `Difficulty` medium.
+* [Add a lint to Clippy](https://github.com/rust-lang/rust-clippy/blob/master/doc/adding_lints.md). Clippy is the Rust linter, and you might be using it all day long. How about add stuff to it?. `Practice` real world Rust, parsing, compilers. `Difficulty` hard.
+* [JSON log viewer, CLI](https://github.com/gistia/json-log-viewer) -- `Practice` CLI, TUI, modules, data, parsing. `Difficulty` hard.
 
 
 ## 🤾‍♂️ Hold on! I want to just play around before deciding to start
