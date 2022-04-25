@@ -42,6 +42,7 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 * [rayon](https://github.com/rayon-rs/rayon) for easy concurrency for data, vectors, arrays based workloads
 * [reqwest](https://docs.rs/reqwest/latest/reqwest/) for HTTP calls
 * [actix-web](https://docs.rs/actix-web/latest/actix_web/) as a web/API server
+* [nom](https://crates.io/crates/nom) (parser combinators) or [pest](https://pest.rs/) (peg) for building custom parsers
 
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
