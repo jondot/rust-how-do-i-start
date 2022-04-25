@@ -19,7 +19,7 @@ _This is largely the learn path you should follow. It is hand-selected, minimal,
 1. 🦀 The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
 2. 🏋️‍♀️ If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with [rustlings](https://github.com/rust-lang/rustlings)
 3. 🧰 Pick a hobby project that's useful for you. Something more than trivial that includes data passing and a few modules (just so you get to experience the borrow checker and data modeling) something in the scope of [bat](https://github.com/sharkdp/bat/tree/master/src). Work on it and go back to the Rust book from time to time (as well as, well - StackOverflow). Repeat, rinse.
-* 🤷‍♀️ Don't have an idea for a hobby project? [PNGMe](https://picklenerd.github.io/pngme_book/introduction.html) is a good project to build + it's a book and exercise format
+* 🤷‍♀️ Don't have an idea for a hobby project? [PNGMe](https://picklenerd.github.io/pngme_book/introduction.html) is a good project to build + it's a book and exercise format. Look at the [project idea list](https://github.com/jondot/rust-how-do-i-start/edit/main/README.md#-project-ideas) too.
 * 🎩 Don't want to work on a project at all? the [too many lists](https://rust-unofficial.github.io/too-many-lists/index.html) minibook will have you building linked-lists of all kinds and is quite good
 6. 🤝 Asking for feedback is highly encouraged to get better at writing idiomatic, readable and performant Rust. You can ask for feedback in [the Rust Subreddit](https://reddit.com/r/rust) or in [the Rust Programming Language Community Discord Server](https://discord.gg/rust-lang-community).
 7. 📐 The [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) for why things are the way they are. E.g. why `into`, and why the `_mut` postfix. For understanding the Rust-"isms" around you when reading people's code.
@@ -43,6 +43,17 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 * [reqwest](https://docs.rs/reqwest/latest/reqwest/) for HTTP calls
 * [actix-web](https://docs.rs/actix-web/latest/actix_web/) as a web/API server
 
+## 💡 Project ideas
+_These are easy starter project ideas, not full-blown projects, just to get you up and running._
+
+* `cat`, `grep`, `uniq`, `wc`, `find` + more. [in this repo](https://github.com/kyclark/command-line-rust) from the _Command line Rust_ book. -- `Practice`: CLI, stdlib, data. `Difficulty`: easy.
+* [A beefed up calculator](https://crates.io/crates/eva) -- `Practice`: CLI, parsing, data. `Difficulty`: easy.
+* [CloudFormation parser](https://rtoch.com/posts/advanced-serde/). -- `Practice:` CLI, serde, errors, data. `Difficulty:` medium.
+* [Realworld](https://github.com/gothinkster/realworld) implementation in Rust. See [realworld-axum-sqlx](https://github.com/launchbadge/realworld-axum-sqlx). -- `Practice`: Web, services, SQL, data. `Difficulty`: medium.
+* [QR code generator](https://github.com/madprops/qool) -- `Practice`: CLI, modules, data. `Difficulty`: medium.
+
+
+
 ## 🤾‍♂️ Hold on! I want to just play around before deciding to start
 
 _Some links to give you a feeling of Rust, if you're not ready to make the jump yet, or need some convincing to invest the time_
@@ -53,7 +64,6 @@ _Some links to give you a feeling of Rust, if you're not ready to make the jump 
 
 
 ## 💻 Cool stuff to have open in a tab while working
-
 _If you have multiple screens, and like a full immersive learning experience - you can keep these open at all times_
 
 * [A big cheatsheet](https://www.cheats.rs/) or [a smaller cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
@@ -61,9 +71,10 @@ _If you have multiple screens, and like a full immersive learning experience - y
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust) and [are we there yet](https://wiki.mozilla.org/Areweyet) for when you're reaching out for a library or need inspiration
 
 
-# Extras: Node.js Developers
-
+# Extras 
 _These links will help bridge the mental model when you're coming from Node.js_
+
+## I'm a Node.js Developer
 
 1. Add [Rust for node developers](https://github.com/Mercateo/rust-for-node-developers) to your schedule, which is a soft intro just to get your bearings.
 
