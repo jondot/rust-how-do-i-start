@@ -40,9 +40,11 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 * [env_logger](https://docs.rs/env_logger/latest/env_logger/) for logging and [log](https://docs.rs/log/latest/log/) for facade
 * [lazy_static](https://docs.rs/lazy_static/latest/lazy_static/) for declaring static variables that have nontrivial initialization
 * [rayon](https://github.com/rayon-rs/rayon) for easy concurrency for data, vectors, arrays based workloads
-* [reqwest](https://docs.rs/reqwest/latest/reqwest/) for HTTP calls
+* [reqwest](https://docs.rs/reqwest/latest/reqwest/) and [reqwest-middleware](https://crates.io/crates/reqwest-middleware) for HTTP calls
 * [actix-web](https://docs.rs/actix-web/latest/actix_web/) as a web/API server
 * [nom](https://crates.io/crates/nom) (parser combinators) or [pest](https://pest.rs/) (peg) for building custom parsers
+* [insta](https://crates.io/crates/insta), [wiremock](https://crates.io/crates/wiremock), and [fake](https://crates.io/crates/fake) for testing
+* [tap](https://crates.io/crates/tap) for utility
 
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
