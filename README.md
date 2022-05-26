@@ -76,6 +76,11 @@ _If you have multiple screens, and like a full immersive learning experience - y
 * A fun [syntax explorer explainer](https://jrvidal.github.io/explaine.rs/)
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust) and [are we there yet](https://wiki.mozilla.org/Areweyet) for when you're reaching out for a library or need inspiration
 
+## 🚀 Releasing
+
+- [a CI/CD template for your project and crates](https://github.com/SpectralOps/rust-ci-release-template) to start with
+- [Documenting your crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate)
+
 
 # Extras 
 _These links will help bridge the mental model when you're coming from Node.js_
