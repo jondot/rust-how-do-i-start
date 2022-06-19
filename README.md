@@ -16,19 +16,23 @@ _Some hand-selected articles to give you a feeling of what's the journey like._
 
 _This is largely the learn path you should follow. It is hand-selected, minimal, and high-value, highly effective content only_
 
-1. 🦀 The [Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick [any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
-2. 🏋️‍♀️ If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with [rustlings](https://github.com/rust-lang/rustlings)
-3. 🧰 Pick a hobby project that's useful for you. Something more than trivial that includes data passing and a few modules (just so you get to experience the borrow checker and data modeling) something in the scope of [bat](https://github.com/sharkdp/bat/tree/master/src). Work on it and go back to the Rust book from time to time (as well as, well - StackOverflow). Repeat, rinse.
-* 🤷‍♀️ Don't have an idea for a hobby project? [PNGMe](https://picklenerd.github.io/pngme_book/introduction.html) is a good project to build + it's a book and exercise format. Look at the [project idea list](https://github.com/jondot/rust-how-do-i-start#-project-ideas) too.
-* 🎩 Don't want to work on a project at all? the [too many lists](https://rust-unofficial.github.io/too-many-lists/index.html) minibook will have you building linked-lists of all kinds and is quite good
-6. 🤝 Asking for feedback is highly encouraged to get better at writing idiomatic, readable and performant Rust. You can ask for feedback in [the Rust Subreddit](https://reddit.com/r/rust) or in [the Rust Programming Language Community Discord Server](https://discord.gg/rust-lang-community).
-7. 📐 The [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) for why things are the way they are. E.g. why `into`, and why the `_mut` postfix. For understanding the Rust-"isms" around you when reading people's code.
-9. 🌱 You're now ready for [Rust by example](https://github.com/rust-lang/rust-by-example) and [Rust by practice](https://github.com/sunface/rust-by-practice)
-10. ⏫ [Rust patterns](https://rust-unofficial.github.io/patterns/intro.html) is a great intro to idioms in Rust
-11. 🚀 Next, [Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
-12. 🤔 When you feel curious about the "why's", pick up [Rust for Rustaceans](https://nostarch.com/rust-rustaceans). Skim it and read what's interesting to you, cover-to-cover is a hard read, unless you have the focus & time.
+* 📚 Reading (code or text)
+* 🏋️‍♀️ Exercise
+* 🏗️ Building
 
-From here, since everyone have their own taste, visit [Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
+1. 🦀 The 📚[Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick 📚[any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
+2. 🏋️‍♀️ If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with 🏋️‍♀️[rustlings](https://github.com/rust-lang/rustlings)
+3. 🧰 Pick a hobby project that's useful for you. Something more than trivial that includes data passing and a few modules (just so you get to experience the borrow checker and data modeling) something in the scope of 🏗️[bat](https://github.com/sharkdp/bat/tree/master/src). Work on it and go back to the Rust book from time to time (as well as, well - StackOverflow). Repeat, rinse.
+* 🤷‍♀️ Don't have an idea for a hobby project? 🏋️‍♀️[PNGMe](https://picklenerd.github.io/pngme_book/introduction.html) is a good project to build + it's a book and exercise format. Look at the [project idea list](https://github.com/jondot/rust-how-do-i-start#-project-ideas) too.
+* 🎩 Don't want to work on a project at all? the 🏋️‍♀️[too many lists](https://rust-unofficial.github.io/too-many-lists/index.html) minibook will have you building linked-lists of all kinds and is quite good
+6. 🤝 Asking for feedback is highly encouraged to get better at writing idiomatic, readable and performant Rust. You can ask for feedback in [the Rust Subreddit](https://reddit.com/r/rust) or in [the Rust Programming Language Community Discord Server](https://discord.gg/rust-lang-community).
+7. 📐 The 📚[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) for why things are the way they are. E.g. why `into`, and why the `_mut` postfix. For understanding the Rust-"isms" around you when reading people's code.
+9. 🌱 You're now ready for 🏋️‍♀️[Rust by example](https://github.com/rust-lang/rust-by-example) and 🏋️‍♀️[Rust by practice](https://github.com/sunface/rust-by-practice)
+10. ⏫ 📚[Rust patterns](https://rust-unofficial.github.io/patterns/intro.html) is a great intro to idioms in Rust
+11. 🚀 Next, 📚[Zero to Production in Rust](https://www.zero2prod.com/) will give you some service-ish, production-ish use cases which will round off your experience
+12. 🤔 When you feel curious about the "why's", pick up 📚[Rust for Rustaceans](https://nostarch.com/rust-rustaceans). Skim it and read what's interesting to you, cover-to-cover is a hard read, unless you have the focus & time.
+
+From here, since everyone have their own taste, visit 📚[Rust Books](https://lborb.github.io/book/) from time to time to pick up a resource that you feel can move you forward to the next step.
 
 ## 📦 Starter libraries - save me from choosing 🤦‍♀️!
 _These are opinionated but popular choices. The goal is to avoid [paradox of choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) while learning._
