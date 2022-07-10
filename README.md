@@ -50,6 +50,11 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 * [insta](https://crates.io/crates/insta), [wiremock](https://crates.io/crates/wiremock), and [fake](https://crates.io/crates/fake) for testing
 * [tap](https://crates.io/crates/tap) for utility
 
+## :ok_hand: Thinking in Rust
+_Hand picked material to give you context, reasons, and history of how Rust evolved. Some of it is historical._
+
+* [Rust Programming Techniques (youtube)](https://www.youtube.com/watch?v=vqavdUGKeb4) - a talk from 2018 which is more about "thinking in Rust", and will encourage using more Rust constructs.
+
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
 
