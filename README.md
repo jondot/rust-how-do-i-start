@@ -54,6 +54,8 @@ _These are opinionated but popular choices. The goal is to avoid [paradox of cho
 _Hand picked material to give you context, reasons, and history of how Rust evolved. Some of it is historical._
 
 * [Rust Programming Techniques (youtube)](https://www.youtube.com/watch?v=vqavdUGKeb4) - a talk from 2018 which is more about "thinking in Rust", and will encourage using more Rust constructs.
+* [@jonhoo on Rust Trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) ([twitter: @jonhoo](https://twitter.com/jonhoo))
+* [@jonhoo on Rust Keywords](https://github.com/rusty-ferris-club/jonhoo-rust-trivia/blob/main/keywords.md) ([twitter: @jonhoo](https://twitter.com/jonhoo))
 
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
@@ -68,6 +70,9 @@ _These are easy starter project ideas, not full-blown projects, just to get you 
 * [Add a lint to Clippy](https://github.com/rust-lang/rust-clippy/blob/master/doc/adding_lints.md). Clippy is the Rust linter, and you might be using it all day long. How about add stuff to it?. `Practice` real world Rust, parsing, compilers. `Difficulty` hard.
 * [JSON log viewer, CLI](https://github.com/gistia/json-log-viewer) -- `Practice` CLI, TUI, modules, data, parsing. `Difficulty` hard.
 
+## 🤘 Looking to work with other people
+_Find other people that are passionate and looking to build stuff in Rust for fun._
+* [Rusty Ferris Club](https://github.com/rusty-ferris-club) builds tiny Rust based open source projects, and you can add your [ideas or requests](https://github.com/rusty-ferris-club/build-it-for-me-please)
 
 ## 🤾‍♂️ Hold on! I want to just play around before deciding to start
 
