@@ -22,6 +22,7 @@ _This is largely the learn path you should follow. It is hand-selected, minimal,
 * 🏗️ Building
 
 1. 🦀 The 📚[Rust Book](https://doc.rust-lang.org/book/). You can read it cover to cover, or skim it. What ever you do, make sure you have a pet project idea to experiment with. You can pick 📚[any of the core utils you like](https://github.com/uutils/coreutils/tree/main/src/uu). The advantage of just re-implementing a core util is that you are probably familiar with one of those, they're just CLI apps and you're not biting more than you can chew, and you do have the source code in that repo for reference.
+* 🎬 Feeling a bit lost? You can watch [Getting Started with Rust: Understanding Rust Compile Errors](https://www.youtube.com/watch?v=hgZQJys2zpY) which is a _great_ intro to errors, borrow checker and more.
 * 🥸 If you're coming from dynamic programming languages, expect the reading process to be less "flowing" and more thinking about types and the type system. If you're stuck and want to "translate" concepts to your own dynamic world, feel free to ask [here](https://github.com/jondot/rust-how-do-i-start/discussions)
 * 🫶 You don't have to read it cover to cover. Get to a nice, working CLI app for starters.
 * 🏋️‍♀️ If you like exercises as a learning aid, you can swap "building a small project" while reading the Rust book, with 🏋️‍♀️[rustlings](https://github.com/rust-lang/rustlings)
@@ -59,6 +60,7 @@ _Hand picked material to give you context, reasons, and history of how Rust evol
 * [Rust Programming Techniques (youtube)](https://www.youtube.com/watch?v=vqavdUGKeb4) - a talk from 2018 which is more about "thinking in Rust", and will encourage using more Rust constructs.
 * [@jonhoo on Rust Trivia](https://github.com/rusty-ferris-club/jonhoo-rust-trivia) ([twitter: @jonhoo](https://twitter.com/jonhoo))
 * [@jonhoo on Rust Keywords](https://github.com/rusty-ferris-club/jonhoo-rust-trivia/blob/main/keywords.md) ([twitter: @jonhoo](https://twitter.com/jonhoo))
+* [Getting Started with Rust: Understanding Rust Compile Errors](https://www.youtube.com/watch?v=hgZQJys2zpY) - A live session with Ryan Levick exploring and understanding compiler errors and the borrow checker
 
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
