@@ -105,15 +105,17 @@ _If you have multiple screens, and like a full immersive learning experience - y
 - [Documenting your crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate)
 
 
-# Extras 
+# Mental Bridges 
 _These links will help bridge the mental model when you're coming from Node.js_
 
 ## I'm a Node.js Developer
 
 1. Add [Rust for node developers](https://github.com/Mercateo/rust-for-node-developers) to your schedule, which is a soft intro just to get your bearings.
 
+## I'm a Python developer
+1. Check out [From Python into Rust](https://github.com/rochacbruno/py2rs)
 
-## Contributing
+# Contributing
 
 Please feel free to submit PRs to improve this list. A few pointers:
 
