@@ -62,6 +62,10 @@ _Hand picked material to give you context, reasons, and history of how Rust evol
 * [@jonhoo on Rust Keywords](https://github.com/rusty-ferris-club/jonhoo-rust-trivia/blob/main/keywords.md) ([twitter: @jonhoo](https://twitter.com/jonhoo))
 * [Getting Started with Rust: Understanding Rust Compile Errors](https://www.youtube.com/watch?v=hgZQJys2zpY), and [part 2](https://www.youtube.com/watch?v=9391GxkYPyY) - A live session with Ryan Levick exploring and understanding compiler errors and the borrow checker
 
+## 🥇 Gold Nuggets
+_Great articles, blogs, videos of specific topics in Rust, that are must-read or must-watch_
+* [Error handling isn't all about errors](https://www.youtube.com/watch?v=rAF8mLI0naQ) - a talk from RustConf 2020, which gives a fantastic overview, breakdown and ultimate tips to error handling and error libraries in Rust
+
 ## 💡 Project ideas
 _These are easy starter project ideas, not full-blown projects, just to get you up and running._
 
